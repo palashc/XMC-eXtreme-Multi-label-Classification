@@ -115,3 +115,32 @@ propensity weighted nDCG at 1--5
    0.36815
    0.38204
    0.39537
+
+
+
+#################################### Our Method ################################
+
+precision@1 --  0.000825559316437
+precision@2 --  0.000577891521506
+precision@3 --  0.000490382233964
+precision@4 --  0.000495335589862
+precision@5 --  0.000445802030876
+
+
+hits@1 --  10
+hits@2 --  14
+hits@3 --  18
+hits@4 --  24
+hits@5 --  27
+
+'American Jews'
+'American academics'
+'American philosophers'
+'American businesspeople'
+'American philanthropists'
+'English Jews'
+'English businesspeople'
+
+
+
+#################################################################################
