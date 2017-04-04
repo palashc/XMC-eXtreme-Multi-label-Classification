@@ -118,7 +118,7 @@ propensity weighted nDCG at 1--5
 
 
 
-#################################### Our Method ################################
+#################################### Our Method ##################################
 
 precision@1 --  0.000825559316437
 precision@2 --  0.000577891521506
@@ -127,11 +127,12 @@ precision@4 --  0.000495335589862
 precision@5 --  0.000445802030876
 
 
-hits@1 --  10
+hits@1 --  10                      
 hits@2 --  14
 hits@3 --  18
 hits@4 --  24
-hits@5 --  27
+hits@5 --  27                   
+
 
 'American Jews'
 'American academics'
@@ -144,3 +145,27 @@ hits@5 --  27
 
 
 #################################################################################
+
+--- fastxml hits--------------
+hits@1 --  217
+hits@2 --  434
+hits@3 --  860
+hits@4 --  1132
+hits@5 --  1310
+------------------------
+
+69 - set(['American scientists', 'American billionaires', 'English people of Scottish descent', 'English architects', 'American people of the War of 1812', 'English songwriters', 'LGBT politicians from England', 'People from Mumbai', 'American theologians', 'American lawyers', 'American philosophers', 'Children of Presidents of the United States', 'Indian Muslims', 'English astronomers', 'American aviators', 'American historians', 'American people of the Black Hawk War', 'English Olympic medallists', 'English people of Irish descent', 'American psychiatrists', 'Indian female models', 'American physicians', 'English artists', 'Parsi people', 'English mountain climbers', 'American Christians', 'English people of French descent', 'Indian National Congress politicians', 'English historians', 'American legal scholars', 'Indian male film directors', 'Recipients of the Padma Shri in sports', 'American businesspeople', 'American engineers', 'English people of Jamaican descent', 'American architects', 'English fashion designers', 'English psychologists', 'Fictional American people', 'English literary critics', 'Gujarati people', 'American educators', 'American amputees', 'English philosophers', 'American psychologists', 'Malayali people', 'Indian male philosophers', 'American astronauts', 'American activists', 'Marathi people', 'American inventors', 'Kashmiri people', 'English businesspeople', 'American socialites', '20th-century Indian film directors', 'American chefs', 'American academics', 'American planters', 'English archaeologists', 'Advaitin philosophers', 'English people of Welsh descent', 'Recipients of the Arjuna Award', 'American Jews', 'English inventors', 'English film producers', 'American translators', 'American philanthropists', 'English Jews', 'American artists'])
+
+
+
+##########################################################################################
+
+hits@1 --  174.0
+hits@2 --  365.0
+hits@3 --  636.0
+hits@4 --  883.0
+hits@5 --  1009.0
+
+
+
+85 - set(['American billionaires', 'English people of Scottish descent', 'English architects', 'American people of the War of 1812', 'English explorers', 'English songwriters', 'LGBT politicians from England', 'People from Mumbai', 'American lawyers', 'American philosophers', 'English philosophers', 'American diplomats', 'American physicians', 'American businesspeople', 'English astronomers', 'American aviators', 'American computer programmers', 'American historians', 'American people of the Black Hawk War', 'English Olympic medallists', 'Indian National Congress politicians', 'English people of Irish descent', 'American planters', 'American corporate directors', 'Lists of people by city in the United States', 'Indian female models', '20th-century Indian film directors', 'Parsi people', 'Fictional American people', 'English people of Jamaican descent', 'American centenarians', 'English mountain climbers', 'English people of Welsh descent', 'American Christians', 'English people of French descent', 'Indian Muslims', 'Indian actor-politicians', 'English antiquarians', 'English mathematicians', 'English historians', 'English people of Italian descent', 'American legal scholars', 'Indian male film directors', 'Recipients of the Padma Shri in sports', 'Indian film score composers', 'American engineers', 'Indian male journalists', 'English people of German descent', 'American architects', 'English fashion designers', 'English psychologists', 'Fictional people from London', 'English literary critics', 'Gujarati people', 'American educators', 'American psychotherapists', 'Indian Hindu monks', 'American adoptees', 'Malayali people', 'Underground Railroad people', 'Indian male philosophers', 'American astronauts', 'American activists', 'American people of Native American descent', 'Marathi people', 'American inventors', 'English businesspeople', 'English soldiers', 'American psychiatrists', 'English philanthropists', 'American chefs', 'American academics', 'Rajiv Gandhi National Quality Award recipients', 'Advaitin philosophers', 'American scientists', 'Recipients of the Arjuna Award', 'American Jews', 'English inventors', 'English film producers', 'American chairmen of corporations', 'American translators', 'American philanthropists', 'English Jews', 'American artists', 'English bankers'])
